@@ -1,3 +1,5 @@
+//41. Write a java program to find sum of all prime numbers between 1 to n.
+
 package javaprograms;
 
 import java.util.Scanner;
