@@ -1,4 +1,4 @@
-//38. Write a C program to calculate factorial of a number.
+//38. Write a java program to calculate factorial of a number.
 package javaprograms;
 
 import java.util.Scanner;
