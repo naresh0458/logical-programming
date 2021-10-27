@@ -1,4 +1,4 @@
-//77. Write a C program to create a file and write contents, save and close the file.
+//77. Write a java program to create a file and write contents, save and close the file.
 package javaprograms;
 
 import java.io.FileOutputStream;
