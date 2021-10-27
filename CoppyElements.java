@@ -1,4 +1,4 @@
-//55. Write a C program to copy all elements from an array to another array.
+//55. Write a java program to copy all elements from an array to another array.
 package javaprograms;
 
 import java.util.Scanner;
