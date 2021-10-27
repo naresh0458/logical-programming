@@ -1,4 +1,4 @@
-//72. Write a C program to search all occurrences of a character in given string.
+//72. Write a java program to search all occurrences of a character in given string.
 package javaprograms;
 
 import java.util.Scanner;
