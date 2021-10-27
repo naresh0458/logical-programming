@@ -1,4 +1,4 @@
-//78. Write a C program to read file contents and display on console.
+//78. Write a java program to read file contents and display on console.
 package javaprograms;
 
 import java.io.FileReader;
