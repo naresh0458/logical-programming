@@ -1,3 +1,5 @@
+//28. Write a java program to find sum of first and last digit of a number.
+
 package javacoding;
 
 public class PrintSumOfFirstAndLastDigits {
