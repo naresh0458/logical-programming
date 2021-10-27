@@ -1,4 +1,4 @@
-//52. Write a C program to find maximum and minimum element in an array.
+//52. Write a java program to find maximum and minimum element in an array.
 package javaprograms;
 
 import java.util.Scanner;
