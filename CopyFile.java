@@ -1,4 +1,4 @@
-//80. Write a C program to copy contents from one file to another file.
+//80. Write a java program to copy contents from one file to another file.
 package javaprograms;
 
 import java.io.FileReader;
