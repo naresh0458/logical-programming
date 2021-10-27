@@ -1,4 +1,4 @@
-//47. Write a C program to check whether a number is Strong number or not.
+//47. Write a java program to check whether a number is Strong number or not.
 package javaprograms;
 
 import java.util.Scanner;
