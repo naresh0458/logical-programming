@@ -1,4 +1,4 @@
-//74. Write a C program to find highest frequency character in a string.
+//74. Write a java program to find highest frequency character in a string.
 package javaprograms;
 
 import java.util.Scanner;
