@@ -1,4 +1,4 @@
-//82. Write a C program to count characters, words and lines in a text file.
+//82. Write a java program to count characters, words and lines in a text file.
 package javaprograms;
 
 import java.io.BufferedReader;
