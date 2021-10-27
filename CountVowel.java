@@ -1,4 +1,4 @@
-//66. Write a C program to count total number of vowels and consonants in a string.
+//66. Write a java program to count total number of vowels and consonants in a string.
 package javaprograms;
 
 import java.util.Scanner;
