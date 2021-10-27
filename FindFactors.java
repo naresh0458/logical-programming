@@ -1,4 +1,4 @@
-//37. Write a C program to find all factors of a number.
+//37. Write a java program to find all factors of a number.
 package javaprograms;
 
 import java.util.Scanner;
