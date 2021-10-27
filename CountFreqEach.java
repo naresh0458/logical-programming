@@ -1,4 +1,4 @@
-//76. Write a C program to count frequency of each character in a string
+//76. Write a java program to count frequency of each character in a string
 package javaprograms;
 
 import java.util.Scanner;
