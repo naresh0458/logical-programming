@@ -1,4 +1,4 @@
-//32. Write a C program to enter a number and print its reverse.
+//32. Write a java program to enter a number and print its reverse.
 package javacoding;
 
 public class ReverseTheNum {
