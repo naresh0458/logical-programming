@@ -3,7 +3,7 @@ package javaprograms;
 
 import java.util.Scanner;
 
-public class CountDuplicate {
+public class CountDup {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
