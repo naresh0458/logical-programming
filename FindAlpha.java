@@ -1,3 +1,4 @@
+//10. Write a java program to check whether a character is uppercase or lowercase     alphabet.
 package javacoding;
 
 import java.util.Scanner;
