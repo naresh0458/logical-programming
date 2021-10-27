@@ -1,4 +1,4 @@
-//29. Write a C program to check whether a number is palindrome or not.
+//29. Write a java program to check whether a number is palindrome or not.
 package javacoding;
 
 public class CheckPalindrom {
