@@ -1,4 +1,4 @@
-//73. Write a C program to count occurrences of a character in given string.
+//73. Write a java program to count occurrences of a character in given string.
 package javaprograms;
 
 import java.util.Scanner;
