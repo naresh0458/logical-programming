@@ -1,3 +1,4 @@
+//12. Write a java program to count total number of notes in given amount.
 package javacoding;
 
 import java.util.Scanner;
