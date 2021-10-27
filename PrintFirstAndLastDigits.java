@@ -1,4 +1,4 @@
-//27. Write a C program to find first and last digit of a number.
+//27. Write a java program to find first and last digit of a number.
 package javacoding;
 
 public class PrintFirstAndLastDigits {
