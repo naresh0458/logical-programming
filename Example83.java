@@ -1,4 +1,5 @@
-//83. WAP to check whether a number is prime, Armstrong or perfect number using     functions.
+//83. WAP java program to check whether a number is prime, Armstrong or perfect number using     functions.
+
 package javaprograms;
 
 import java.util.Scanner;
