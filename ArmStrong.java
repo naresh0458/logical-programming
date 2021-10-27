@@ -1,4 +1,4 @@
-//43. Write a C program to check whether a number is Armstrong number or not.
+//43. Write a java program to check whether a number is Armstrong number or not.
 package javaprograms;
 
 import java.util.Scanner;
