@@ -1,3 +1,4 @@
+//36. Write a java program to find power of a number using for loop.
 package javaprograms;
 
 import java.util.Scanner;
