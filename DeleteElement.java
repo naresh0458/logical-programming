@@ -1,4 +1,4 @@
-//56. Write a C program to delete an element from an array at specified position.
+//56. Write a java program to delete an element from an array at specified position.
 package javaprograms;
 
 import java.util.Scanner;
