@@ -1,4 +1,4 @@
-//30. Write a C program to calculate sum of digits of a number.
+//30. Write a java program to calculate sum of digits of a number.
 package javacoding;
 
 public class PrintSumOfDigits {
