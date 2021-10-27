@@ -1,4 +1,4 @@
-//23. Write a C program to find sum of all even numbers between 1 to n.
+//23. Write a java program to find sum of all even numbers between 1 to n.
 package javacoding;
 
 import java.util.Scanner;
