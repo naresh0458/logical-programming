@@ -1,3 +1,4 @@
+//16. Write a java program to print day of week name using switch case.
 package javaprograms;
 
 import java.util.Scanner;
