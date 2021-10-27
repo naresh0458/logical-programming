@@ -1,4 +1,4 @@
-//34. Write a C program to enter a number and print it in words.
+//34. Write a java program to enter a number and print it in words.
 package javaprograms;
 
 import java.util.Scanner;
