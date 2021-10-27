@@ -1,2 +1,0 @@
-# logical-programming
-fast track
