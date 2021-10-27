@@ -1,4 +1,4 @@
-//26. Write a C program to count number of digits in a number.
+//26. Write a java program to count number of digits in a number.
 package javacoding;
 
 public class CountNumberOfDigits {
