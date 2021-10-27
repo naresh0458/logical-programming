@@ -1,4 +1,4 @@
-//46. Write a C program to print all Perfect numbers between 1 to n.
+//46. Write a java program to print all Perfect numbers between 1 to n.
 package javaprograms;
 
 import java.util.Scanner;
