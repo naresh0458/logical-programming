@@ -1,4 +1,4 @@
-//25. Write a C program to print multiplication table of any number.
+//25. Write a java program to print multiplication table of any number.
 package javacoding;
 
 import java.util.Scanner;
