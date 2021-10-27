@@ -1,4 +1,4 @@
-//44. Write a C program to print all Armstrong numbers between 1 to n.
+//44. Write a java program to print all Armstrong numbers between 1 to n.
 package javaprograms;
 
 import java.util.Scanner;
