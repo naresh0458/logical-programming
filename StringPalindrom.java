@@ -1,4 +1,4 @@
-//69. Write a C program to check whether a string is palindrome or not.
+//69. Write a java program to check whether a string is palindrome or not.
 package javaprograms;
 
 import java.util.Scanner;
