@@ -1,4 +1,4 @@
-//49. Write a C program to print Fibonacci series up to n terms
+//49. Write a java program to print Fibonacci series up to n terms
 
 package javaprograms;
 
