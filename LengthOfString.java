@@ -1,4 +1,4 @@
-//64. Write a C program to find length of a string and compare and concatenate two     strings.
+//64. Write a java program to find length of a string and compare and concatenate two     strings.
 package javaprograms;
 
 import java.util.Scanner;
