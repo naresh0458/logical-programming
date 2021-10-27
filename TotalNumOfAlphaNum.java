@@ -1,4 +1,4 @@
-//65. Write a C program to find total number of alphabets, digits or special     character in a string.
+//65. Write a java program to find total number of alphabets, digits or special     character in a string.
 package javaprograms;
 
 import java.util.Scanner;
