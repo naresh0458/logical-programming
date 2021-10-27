@@ -1,4 +1,4 @@
-//45. Write a C program to check whether a number is Perfect number or not.
+//45. Write a java program to check whether a number is Perfect number or not.
 package javaprograms;
 
 import java.util.Scanner;
