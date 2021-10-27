@@ -1,4 +1,4 @@
-//71. Write a C program to find last occurrence of a character in a given string.
+//71. Write a java program to find last occurrence of a character in a given string.
 package javaprograms;
 
 import java.util.Scanner;
