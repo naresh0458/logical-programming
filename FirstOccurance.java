@@ -1,4 +1,4 @@
-//70. Write a C program to find first occurrence of a character in a given string.
+//70. Write a java program to find first occurrence of a character in a given string.
 package javaprograms;
 
 import java.util.Scanner;
