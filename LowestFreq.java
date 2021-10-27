@@ -1,4 +1,4 @@
-//75. Write a C program to find lowest frequency character in a string.
+//75. Write a java program to find lowest frequency character in a string.
 package javaprograms;
 
 import java.util.Scanner;
