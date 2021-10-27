@@ -1,4 +1,5 @@
-//58. Write a C program to print all unique elements in the array.
+//58. Write a java program to print all unique elements in the array.
+
 package javaprograms;
 
 import java.util.Scanner;
