@@ -1,4 +1,4 @@
-//81. Write a C program to merge two file to third file.
+//81. Write a java program to merge two file to third file.
 package javaprograms;
 
 import java.io.FileReader;
