@@ -1,4 +1,4 @@
-//24. Write a C program to find sum of all odd numbers between 1 to n.
+//24. Write a java program to find sum of all odd numbers between 1 to n.
 
 package javacoding;
 
