@@ -1,3 +1,4 @@
+//42. Write a java program to find all prime factors of a number.
 package javaprograms;
 
 import java.util.Scanner;
