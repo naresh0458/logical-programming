@@ -1,4 +1,4 @@
-//67. Write a C program to count total number of words in a string.
+//67. Write a java program to count total number of words in a string.
 package javaprograms;
 
 import java.util.Scanner;
