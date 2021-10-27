@@ -1,9 +1,9 @@
-//59. Write a C program to count total number of duplicate elements in an array.
+//59. Write a java program to count total number of duplicate elements in an array.
 package javaprograms;
 
 import java.util.Scanner;
 
-public class CountDup {
+public class CountDuplicate {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
