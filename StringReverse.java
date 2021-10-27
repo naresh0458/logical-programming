@@ -1,4 +1,4 @@
-//68. Write a C program to find reverse of a string.
+//68. Write a java program to find reverse of a string.
 package javaprograms;
 
 import java.util.Scanner;
