@@ -1,4 +1,4 @@
-//40. Write a C program to print all Prime numbers between 1 to n.
+//40. Write a java program to print all Prime numbers between 1 to n.
 package javaprograms;
 
 import java.util.Scanner;
